@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Technology News</string>
+    <string name="aside_author">Moxy</string>
+    <string name="aside_timedate">March 18, 2015</string>
+    <string name="aside_area">Technology Info</string>
+    <string name="aside_caption">Long Desc</string>
+</resources>
