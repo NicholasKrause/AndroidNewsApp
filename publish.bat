@@ -3,4 +3,4 @@ git config --global user.name "NicholasKrause"
 git status .
 git stage .
 git commit -m content
-git push origin gh-pages
+git push origin master
