@@ -5,5 +5,3 @@
 
 
 ![Android Inventory App](/AndroidInventoryApp.gif?raw=true "Android Inventory App")
-
-[Interactive Portfolio](http://www.littleoverlord.com/portfolio.html)
